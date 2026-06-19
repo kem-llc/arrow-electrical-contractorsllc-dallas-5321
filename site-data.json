@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Arrow Electrical Contractors, LLC",
+    "shortName": "Arrow Electrical",
+    "tagline": "Dallas's Trusted Electricians Since 1998",
+    "niche": "Electrician",
+    "phone": "(214) 869-5321",
+    "address": "123 Main Street, Dallas, TX 75201",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun Closed",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Arrow Electrical Contractors | Top-Rated Electrician in Dallas, TX",
+    "description": "Arrow Electrical Contractors offers expert electrical services in Dallas, TX. From repairs to installations, our licensed electricians deliver safe, reliable solutions. Call (214) 869-5321."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Electrical Contractor",
+      "headline": "Expert Electrical Services for Your Home & Business",
+      "subheadline": "Licensed, insured, and committed to quality — Arrow Electrical delivers safe, efficient, and code-compliant solutions for every project.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Services"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Expertise",
+        "title": "Safe, Modern Electrical for Your Home",
+        "body": "From panel upgrades to smart home wiring, Arrow Electrical ensures your family's safety and comfort. We handle everything from minor repairs to full rewiring with precision and care.",
+        "bullets": [
+          "Panel upgrades & replacements",
+          "Whole-home surge protection",
+          "Smart home automation wiring",
+          "Lighting installation & design"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Licensed & Insured",
+        "cardBody": "Every job is backed by full licensing and insurance, so you're protected from start to finish."
+      },
+      {
+        "eyebrow": "Commercial Solutions",
+        "title": "Reliable Electrical for Dallas Businesses",
+        "body": "Minimize downtime with our commercial electrical services. We work around your schedule to keep your business running smoothly, from new construction to emergency repairs.",
+        "bullets": [
+          "New construction wiring",
+          "Emergency repair & maintenance",
+          "Energy-efficient upgrades",
+          "Data & low-voltage cabling"
+        ],
+        "reverse": true,
+        "cardLabel": "Trusted Partner",
+        "cardTitle": "Fast Response",
+        "cardBody": "We arrive on time and complete projects on schedule — because your business can't wait."
+      }
+    ],
+    "whyTitle": "Why Choose Arrow Electrical?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured Pros",
+        "description": "Every electrician is fully licensed, bonded, and insured for your protection."
+      },
+      {
+        "title": "Upfront, Honest Pricing",
+        "description": "No hidden fees — we provide clear estimates before any work begins."
+      },
+      {
+        "title": "Same-Day Service Available",
+        "description": "Emergency? We offer same-day appointments for urgent electrical needs."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy, we'll make it right — no questions asked."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Arrow Electrical rewired our entire home. They were professional, on time, and left everything spotless. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner, Lakewood"
+      },
+      {
+        "quote": "We called for an emergency outage at our office. They arrived within an hour and had us back up and running quickly.",
+        "author": "James T.",
+        "role": "Business Owner, Downtown Dallas"
+      },
+      {
+        "quote": "The team installed new lighting and a panel upgrade. Great communication and fair pricing. Will use again.",
+        "author": "Linda R.",
+        "role": "Homeowner, Preston Hollow"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call us or schedule online for a free, no-obligation estimate.",
+      "primaryCta": "Call (214) 869-5321",
+      "secondaryCta": "Get a Free Estimate"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Arrow Electrical Contractors, we offer a full range of electrical services for residential and commercial clients in Dallas, TX. Our licensed electricians combine technical expertise with exceptional customer service to deliver safe, reliable, and efficient solutions. Whether you need a simple repair or a complete rewiring, we're here to help."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Residential Electrical Services",
+      "shortDescription": "Complete electrical solutions for your home, from repairs to smart home upgrades.",
+      "longDescription": "Your home's electrical system is vital for safety and comfort. Arrow Electrical provides expert residential services including panel upgrades, outlet and switch repairs, lighting installation, and whole-home surge protection. We use top-quality materials and follow all safety codes to ensure lasting results.",
+      "benefits": [
+        "Enhanced safety with code-compliant work",
+        "Increased home value with modern upgrades",
+        "Energy savings with efficient fixtures",
+        "Peace of mind with warranty-backed service"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your needs, inspect the system, and provide a clear estimate."
+        },
+        {
+          "title": "Installation & Repair",
+          "description": "Our electricians perform the work efficiently, minimizing disruption."
+        },
+        {
+          "title": "Final Walkthrough",
+          "description": "We test everything and ensure you're satisfied before we leave."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if my panel needs upgrading?",
+          "answer": "Signs include flickering lights, frequent breaker trips, or an old fuse box. We offer free inspections to assess your panel's condition."
+        },
+        {
+          "question": "Do you offer warranties on residential work?",
+          "answer": "Yes, all our work comes with a warranty on labor and parts. Details vary by project."
+        }
+      ],
+      "slug": "residential-electrical-services"
+    },
+    {
+      "icon": "02",
+      "title": "Commercial Electrical Services",
+      "shortDescription": "Reliable electrical solutions for businesses, minimizing downtime and maximizing safety.",
+      "longDescription": "Arrow Electrical understands the demands of commercial environments. We provide new construction wiring, emergency repairs, energy-efficient lighting, and data cabling for offices, retail spaces, and industrial facilities. Our team works after hours to avoid disrupting your operations.",
+      "benefits": [
+        "Minimized downtime with fast response",
+        "Compliance with commercial codes",
+        "Energy cost reduction with LED retrofits",
+        "Scalable solutions for growing businesses"
+      ],
+      "process": [
+        {
+          "title": "Site Assessment",
+          "description": "We evaluate your electrical system and identify needs."
+        },
+        {
+          "title": "Custom Proposal",
+          "description": "You receive a detailed plan and fixed-price quote."
+        },
+        {
+          "title": "Execution & Follow-Up",
+          "description": "Our crew completes the work on schedule and provides ongoing support."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you work outside business hours?",
+          "answer": "Absolutely. We schedule after-hours and weekend work to avoid interfering with your operations."
+        },
+        {
+          "question": "Do you handle permits and inspections?",
+          "answer": "Yes, we manage all necessary permits and coordinate inspections for code compliance."
+        }
+      ],
+      "slug": "commercial-electrical-services"
+    },
+    {
+      "icon": "03",
+      "title": "Emergency Electrical Repairs",
+      "shortDescription": "24/7 emergency service for power outages, sparks, and other urgent issues.",
+      "longDescription": "Electrical emergencies can happen anytime. Arrow Electrical offers 24/7 emergency repair services in Dallas. Whether it's a power outage, sparking outlet, or downed wire, our licensed electricians respond quickly to restore safety and power. We carry a full inventory of parts to handle most repairs on the spot.",
+      "benefits": [
+        "Rapid response to prevent damage",
+        "Available 24/7 including holidays",
+        "Fully stocked trucks for fast fixes",
+        "Safety-first approach to emergencies"
+      ],
+      "process": [
+        {
+          "title": "Emergency Call",
+          "description": "Call our hotline; a dispatcher sends the nearest electrician."
+        },
+        {
+          "title": "On-Site Diagnosis",
+          "description": "We identify the issue and explain the solution."
+        },
+        {
+          "title": "Immediate Repair",
+          "description": "We fix the problem and restore power safely."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What qualifies as an electrical emergency?",
+          "answer": "Any situation that poses a safety risk, such as exposed wires, burning smells, or total power loss, is an emergency."
+        },
+        {
+          "question": "How fast can you arrive?",
+          "answer": "We aim for same-day arrival, often within 1-2 hours for emergencies within Dallas."
+        }
+      ],
+      "slug": "emergency-electrical-repairs"
+    },
+    {
+      "icon": "04",
+      "title": "Electrical Panel Upgrades",
+      "shortDescription": "Upgrade your electrical panel for safety, capacity, and modern needs.",
+      "longDescription": "An outdated electrical panel can be a fire hazard and limit your home's capacity. Arrow Electrical specializes in panel upgrades to 200 amps or more, ensuring your system can handle modern appliances, electronics, and HVAC systems. We handle everything from permits to final inspection.",
+      "benefits": [
+        "Reduced fire risk with modern breakers",
+        "Support for new appliances & additions",
+        "Improved energy efficiency",
+        "Increased property value"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Load Calculation",
+          "description": "We assess your current panel and calculate your needs."
+        },
+        {
+          "title": "Permitting & Planning",
+          "description": "We secure permits and plan the upgrade."
+        },
+        {
+          "title": "Installation & Testing",
+          "description": "Our team installs the new panel and tests all circuits."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most residential upgrades are completed in 4-8 hours, depending on complexity."
+        },
+        {
+          "question": "Do I need a permit for a panel upgrade?",
+          "answer": "Yes, and we handle all permitting and inspection coordination for you."
+        }
+      ],
+      "slug": "electrical-panel-upgrades"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Electrician Since 1998",
+    "mission": "To provide safe, reliable, and affordable electrical services that exceed customer expectations, while maintaining the highest standards of professionalism and integrity.",
+    "story": [
+      "Arrow Electrical Contractors was founded in 1998 by master electrician John Arrow with a simple mission: deliver top-quality electrical work with honesty and transparency. Starting with a single truck and a commitment to excellence, John built a reputation for reliability that spread through Dallas neighborhoods. Over the years, Arrow Electrical has grown into a full-service electrical company serving thousands of residential and commercial clients.",
+      "Today, our team of licensed electricians continues that tradition. We invest in ongoing training, use the latest tools and technology, and prioritize customer satisfaction above all. Whether it's a small repair or a major installation, we treat every project with the same care and attention to detail. Arrow Electrical — proud to be Dallas's trusted electrician."
+    ],
+    "highlight": {
+      "stat": "25+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Safety First",
+        "description": "We never compromise on safety — every job meets or exceeds code requirements."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest pricing, transparent communication, and doing what we promise."
+      },
+      {
+        "title": "Quality Craftsmanship",
+        "description": "We take pride in our work, using premium materials and proven techniques."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction drives everything we do. We listen, we adapt, we deliver."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Arrow Electrical",
+    "subheadline": "Ready to start your project? Call us or fill out the form below for a free estimate.",
+    "primaryCta": "Call (214) 869-5321",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Preston Hollow",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "Park Cities"
+    ]
+  },
+  "social_proof": {
+    "rating": 5,
+    "reviews": ""
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148695321",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
